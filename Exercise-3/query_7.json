@@ -4,121 +4,56 @@
     {
       "type" : "Feature", 
       "id" : 1, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.19968478899846, 38.7032509682629
-        ]
-      }, 
       "properties" : {
-        "OBJECTID" : 1, 
-        "COD_SIG" : "3977", 
-        "INF_NOME" : "Armazéns da Ajuda", 
-        "INF_MORADA" : "Calçada da Ajuda, 89-93;", 
-        "INF_TELEFONE" : "213638576", 
-        "INF_EMAIL" : "webmaster@lojasehorarios.com.pt", 
-        "INF_SITE" : null, 
-        "INF_DESCRICAO" : null, 
-        "INF_ACTIVO" : 1, 
-        "FREGUESIA" : "Ajuda", 
-        "GlobalID" : "ce9cd2d8-f6f4-4a36-a4f6-36d5a15ed9fa"
+        "INF_NOME" : "Itis", 
+        "INF_MORADA" : "Itäkatu 1-7, 00930 Helsinki"
       }
     }, 
 {
       "type" : "Feature", 
-      "id" : 30, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.14520096891624, 38.7320500155413
-        ]
-      }, 
+      "id" : 2, 
       "properties" : {
-        "OBJECTID" : 30, 
-        "COD_SIG" : "4006", 
-        "INF_NOME" : "Galerias Saldanha Residence", 
-        "INF_MORADA" : "Avenida Fontes Pereira de Melo, 42-42E", 
-        "INF_TELEFONE" : "21 351 01 00", 
-        "INF_EMAIL" : "saldgaleria@mail.telepac.pt", 
-        "INF_SITE" : "www.saldanharesidence.com", 
-        "INF_DESCRICAO" : null, 
-        "INF_ACTIVO" : 1, 
-        "FREGUESIA" : "Arroios", 
-        "GlobalID" : "19fdd530-ef6a-4ab8-af1f-be9d53d43002"
+        "INF_NOME" : "Forum", 
+        "INF_MORADA" : "Mannerheimintie 20, 00100 Helsinki"
       }
     }, 
     {
       "type" : "Feature", 
       "id" : 3, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.13936084375228, 38.7109732296136
-        ]
-      }, 
       "properties" : {
-        "OBJECTID" : 3, 
-        "COD_SIG" : "3979", 
-        "INF_NOME" : "Armazéns do Chiado", 
-        "INF_MORADA" : "Rua Nova do Almada, 102-126;", 
-        "INF_TELEFONE" : "21 321 06 00", 
-        "INF_EMAIL" : "armazensdochiado@multi-mallmanagement.com", 
-        "INF_SITE" : "www.armazensdochiado.com", 
-        "INF_DESCRICAO" : null, 
-        "INF_ACTIVO" : 1, 
-        "FREGUESIA" : "Santa Maria Maior", 
-        "GlobalID" : "5218ec8e-6aa2-4989-950b-753b0aed80ef"
+        "INF_NOME" : "Iso-omena", 
+        "INF_MORADA" : "Piispansilta 11, 02230 Espoo"
       }
     }, 
     {
       "type" : "Feature", 
       "id" : 4, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.14256115345008, 38.7112925559897
-        ]
-      }, 
       "properties" : {
-        "OBJECTID" : 4, 
-        "COD_SIG" : "3980", 
-        "INF_NOME" : "Centro Comercial e Cultural Espaço Chiado", 
-        "INF_MORADA" : "Rua Nova da Trindade, 5-5G;", 
-        "INF_TELEFONE" : "21 322 55 69/21 347 25 79", 
-        "INF_EMAIL" : "espacochiado@sapo.pt", 
-        "INF_SITE" : null, 
-        "INF_DESCRICAO" : null, 
-        "INF_ACTIVO" : 1, 
-        "FREGUESIA" : "Santa Maria Maior", 
-        "GlobalID" : "2a8c9c2e-1ad1-4afa-8a21-98536c70a1bc"
+        "INF_NOME" : "Sello", 
+        "INF_MORADA" : "Leppävaarankatu 3-9, 02600 Espoo"
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 7, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.1354280805105, 38.71639581749
-        ]
-      }, 
+      "id" : 5, 
       "properties" : {
-        "OBJECTID" : 7, 
-        "COD_SIG" : "3983", 
-        "INF_NOME" : "Centro Comercial Mouraria", 
-        "INF_MORADA" : "Rua Fernandes da Fonseca, 1-1B;", 
-        "INF_TELEFONE" : "21 888 09 04", 
-        "INF_EMAIL" : null, 
-        "INF_SITE" : null, 
-        "INF_DESCRICAO" : null, 
-        "INF_ACTIVO" : 1, 
-        "FREGUESIA" : "Santa Maria Maior", 
-        "GlobalID" : "cc6a5c6a-2b9d-44a7-935f-5e42027c7526"
+        "INF_NOME" : "Jumbo", 
+        "INF_MORADA" : "Vantaanportinkatu 3, 01510 Vantaa"
+      }
+	  },
+	  {
+      "type" : "Feature", 
+      "id" : 6, 
+      "properties" : {
+        "INF_NOME" : "REDI", 
+        "INF_MORADA" : "Hermannin rantatie 5, 00580 Helsinki"
+      }},
+	      {
+      "type" : "Feature", 
+      "id" : 7, 
+      "properties" : {
+        "INF_NOME" : "Tripla", 
+        "INF_MORADA" : "Fredikanterassi 1, 00520 Helsinki"
       }
     }
   ]
