@@ -35,3 +35,9 @@ jupyter_execute
 coverage.xml
 
 .idea
+
+# Ignore everything inside the data folder
+data/**
+
+# Keep the placeholder data file
+!data/.gitkeep
